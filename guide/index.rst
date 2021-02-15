@@ -1,4 +1,4 @@
-Build The Earth Guide
+Build The Earth Guide (EDITED)
 =====================
 
 .. toctree::
